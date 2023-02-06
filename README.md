@@ -14,24 +14,24 @@ Here are some ideas to get you started:
 
 #### What am I doing?
 - 🏢 Working at **[Monty Mobile](https://montymobile.com)** as an **iOS Developer**.
-- 👨‍💻 Writing `Swift`, `C++`, `Objective-C`, `C#`, `HTML` & `CSS`.
+- 👨‍💻 Writing `Swift`, `C++`, `Objective-C`, `HTML` & `CSS`.
 - 🌍 Mostly active on <a href="https://stackoverflow.com/users/13278922/timmy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height=20></a> <!--[StackOverflow](https://stackoverflow.com/users/13278922/timmy)--> & <a href="https://www.linkedin.com/in/joemaghzal/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20>.
 - 📚 Currently learning about **Game Engines** & **RealityKit**.
 - 👯 Looking to collaborate on **`SwiftUI` projects**.
-- 🥰 Building **[Astro-Odyssey](https://github.com/asadullahrifat89/Astro-Odyssey-Uno-Platform)**, **[Candy-Craze](https://github.com/asadullahrifat89/candy-craze-uno-platform)**, **[Hungry-Worm](https://github.com/asadullahrifat89/hungry-worm-uno-platform)**, **[Sky-Way](https://github.com/asadullahrifat89/sky-way-uno-platform)**, **[Memory-Match](https://github.com/asadullahrifat89/memory-match-uno-platform)**, **[Honk-Hero](https://github.com/asadullahrifat89/honk-hero-uno-platform)** & **[Phototis](https://github.com/asadullahrifat89/Phototis-Uno-Platform)** as pet projects.
+- 🥰 Building **[Watched It?](https://github.com/TimmysApp/Watched-It)**, **[MediaUI](https://github.com/TimmysApp/MediaUI)**, **[DataStruct](https://github.com/TimmysApp/DataStruct)**, **[NetworkUI](https://github.com/TimmysApp/NetworkUI)**, **[STools](https://github.com/TimmysApp/STools)**, **[CoreMathematics](https://github.com/TimmysApp/CoreMathematics)** & **[ScrollViewStyle](https://github.com/TimmysApp/ScrollViewStyle)** as pet projects.
 
-#### What I like to disscuss about? 
+#### What would I like to disscuss? 
 - 💬 Ask me about `SwiftUI` `Swift` `Vapor` `CoreData` `design patterns` `clean code` `choice of frameworks` & `tech culture`.
 
 #### What my skill set looks like?
 - 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧙🏻 C# 11` • `👨‍🏭 XAML` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
+  - **📜 Languages:** • `Swift` • `Objective-C`
   - **🔬 Frameworks:**  
-    - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0) 
-    - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
-    - **📱 Mobile:** • [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin) • [.NET MAUI](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui) • [Uno Platform](https://platform.uno/uno-platform-for-ios-and-android/)
-  - **🗳 UI toolkits:** • [Telerik](https://www.telerik.com/) • [Dev Express](https://www.devexpress.com/) • [MudBlazor](https://mudblazor.com/)
-  - **📋 Reporting toolkits:** • [RDLC](https://docs.fileformat.com/reporting/rdlc/#:~:text=(.rdlc)%20Files-,What%20is%20an%20RDLC%20file%3F,used%20to%20create%20these%20files.) • [Dev Express Xtra Reporting](https://docs.devexpress.com/XtraReports/2162/reporting) • [Telerik Reporting](https://www.telerik.com/products/reporting.aspx)
+    - **🖥 Desktop:** • [AppKit](https://developer.apple.com/documentation/appkit/) • [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+    - **📱 Mobile:** • [UIKit](https://developer.apple.com/documentation/uikit) • [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+    - **⌚️ Watch:** • [WatchKit](https://developer.apple.com/documentation/watchkit) • [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+  - **🗳 Debugging & Monitoring:** • [Xcode Debugger](https://developer.apple.com/documentation/xcode/stepping-through-code-and-inspecting-variables-to-isolate-bugs) • [Instruments](https://developer.apple.com/forums/tags/instruments) • [FirebaseCrashlytics](https://firebase.google.com/docs/crashlytics) • [AppStore Connect](https://appstoreconnect.apple.com)
+
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C# 11`
   - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
   - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [SignalR](https://dotnet.microsoft.com/en-us/apps/aspnet/signalr) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 - 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Git](https://git-scm.com/) • [BitBucket](https://bitbucket.org/product) • [Azure DevOps Server](https://azure.microsoft.com/en-us/services/devops/server/)
-  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Azure Boards](https://azure.microsoft.com/en-us/services/devops/boards/)
-  - **🗂 CI/CD:** • [IIS](https://www.iis.net/) • [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
+  - **📁 Code repository:** • [Git](https://git-scm.com/) • [GitHub](https://github.com)
+  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • GitHub Projects
+  - **🗂 CI/CD:** • [Xcode Cloud](https://github.com/features/actions) • [Github Actions](https://github.com/features/actions)
 - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Mediator](https://en.wikipedia.org/wiki/Mediator_pattern) • [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
   - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
