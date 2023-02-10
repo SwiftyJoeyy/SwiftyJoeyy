@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write clean code instead of using comments.
   - ⏱️ I'm a **workaholic** and drink a lot of energy drinks.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released at WWDC.
+  - 😅 I just can't **resist the urge** to **explore** a new **technology** released at WWDC.
 
 <!--Github Stats-->
 <p float="left">
