@@ -1,10 +1,5 @@
 ### Joe Maghzal
 
-<!--
-**asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 #### Who I am?
 
 - 20 years old, SwiftUI Specialist.
@@ -14,7 +9,7 @@ Here are some ideas to get you started:
 
 #### What am I doing?
 - 🏢 Working at **[Monty Mobile](https://montymobile.com)** as an **iOS Developer**.
-- 👨‍💻 Writing `Swift`, `C++`, `Objective-C`, `HTML` & `CSS`.
+- 👨‍💻 Writing `Swift`, `C++`, `Objective-C`.
 - 🌍 Mostly active on <a href="https://stackoverflow.com/users/13278922/timmy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height=20></a> <!--[StackOverflow](https://stackoverflow.com/users/13278922/timmy)--> & <a href="https://www.linkedin.com/in/joemaghzal/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20>.
 - 📚 Currently learning about **Game Engines**.
 - 👯 Looking to collaborate on **`SwiftUI` projects**.
