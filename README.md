@@ -11,7 +11,7 @@
 - 🏢 Working at **[Monty Mobile](https://montymobile.com)** as an **iOS Developer**.
 - 👨‍💻 Writing `Swift`, `C++`, `Objective-C`.
 - 🌍 Mostly active on <a href="https://stackoverflow.com/users/13278922/timmy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height=20></a> <!--[StackOverflow](https://stackoverflow.com/users/13278922/timmy)--> & <a href="https://www.linkedin.com/in/joemaghzal/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20>.
-- 📚 Currently learning about **Game Engines**.
+- 📚 Currently learning about **`CoreImage`** & **Media Editing**.
 - 👯 Looking to collaborate on **`SwiftUI` projects**.
 - 🥰 Building **[Watched It?](https://github.com/TimmysApp/Watched-It)**, **[MediaUI](https://github.com/TimmysApp/MediaUI)**, **[DataStruct](https://github.com/TimmysApp/DataStruct)**, **[NetworkUI](https://github.com/TimmysApp/NetworkUI)**, **[STools](https://github.com/TimmysApp/STools)**, **[CoreMathematics](https://github.com/TimmysApp/CoreMathematics)** & **[ScrollViewStyle](https://github.com/TimmysApp/ScrollViewStyle)** as pet projects.
 
