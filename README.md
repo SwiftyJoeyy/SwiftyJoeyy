@@ -1,6 +1,6 @@
 ### Joe Maghzal
 
-#### Who I am?
+#### Who am I?
 
 - 20 years old, SwiftUI Specialist.
 - iOS Engineer based in **[Beirut](https://en.wikipedia.org/wiki/Beirut), [Lebanon](https://en.wikipedia.org/wiki/Lebanon)**. 
