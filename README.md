@@ -8,7 +8,7 @@
 - Developed products for **telecom, retail, F&B,** & **entertainment** business domains.
 
 #### What am I doing?
-- 🏢 Working at **[Monty Mobile](https://montymobile.com)** as an **iOS Developer**.
+- 🏢 Working at **[Toters](https://www.totersapp.com)** as an **iOS Engineer**.
 - 👨‍💻 Writing `Swift`, `C++`, `Objective-C`.
 - 🌍 Mostly active on <a href="https://stackoverflow.com/users/13278922/timmy"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" height=20></a> <!--[StackOverflow](https://stackoverflow.com/users/13278922/timmy)--> & <a href="https://www.linkedin.com/in/joemaghzal/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20>.
 - 📚 Currently learning about **`CoreImage`** & **Media Editing**.
@@ -49,7 +49,7 @@
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write clean code instead of using comments.
   - ⏱️ I'm a **workaholic** and drink a lot of energy drinks.
-  - 😅 I just can't **resist the urge** to **explore** a new **technology** released at WWDC.
+  - 😅 I just can't **resist the urge** to **explore** the new **technologies** released at WWDC.
 
 <!--Github Stats-->
 <p float="left">
